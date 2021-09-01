@@ -76,7 +76,7 @@ const Profile = () => {
             })}
           </tbody>
         </table>
-        <button onClick={callBackend}>Call api</button>
+        {/* <button onClick={callBackend}>Call api</button>
         <table>
           <thead>
             <tr>
@@ -92,7 +92,7 @@ const Profile = () => {
               </tr>
             ))}
           </tbody>
-        </table>
+        </table> */}
       </div>
     </div>
   );
