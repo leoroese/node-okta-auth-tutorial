@@ -1,5 +1,5 @@
 const Locked = () => {
-  return "BOO IM LOCKED";
+  return "YOU MUST BE AUTHENTICATED!";
 };
 
 export default Locked;
